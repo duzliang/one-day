@@ -1,0 +1,116 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "OneDay"
+    },
+    {
+      "name": "app_description",
+      "value": "OneDay - 记录你的每一天"
+    },
+    {
+      "name": "module_desc",
+      "value": "OneDay 主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "OneDay 笔记应用"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "OneDay"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "camera_reason",
+      "value": "用于拍摄照片添加到日记"
+    },
+    {
+      "name": "media_reason",
+      "value": "用于选择照片添加到日记"
+    },
+    {
+      "name": "location_reason",
+      "value": "用于获取位置信息记录日记地点"
+    },
+    {
+      "name": "today",
+      "value": "今天"
+    },
+    {
+      "name": "yesterday",
+      "value": "昨天"
+    },
+    {
+      "name": "new_entry",
+      "value": "新建日记"
+    },
+    {
+      "name": "edit_entry",
+      "value": "编辑日记"
+    },
+    {
+      "name": "delete_entry",
+      "value": "删除日记"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "title_hint",
+      "value": "标题（可选）"
+    },
+    {
+      "name": "content_hint",
+      "value": "写下今天的故事..."
+    },
+    {
+      "name": "settings",
+      "value": "设置"
+    },
+    {
+      "name": "all_entries",
+      "value": "全部日记"
+    },
+    {
+      "name": "photos",
+      "value": "照片"
+    },
+    {
+      "name": "no_entries",
+      "value": "还没有日记，开始写一篇吧"
+    },
+    {
+      "name": "loading_weather",
+      "value": "正在获取天气..."
+    },
+    {
+      "name": "location_unknown",
+      "value": "位置未知"
+    },
+    {
+      "name": "add_photo",
+      "value": "添加照片"
+    },
+    {
+      "name": "take_photo",
+      "value": "拍照"
+    },
+    {
+      "name": "select_from_album",
+      "value": "从相册选择"
+    },
+    {
+      "name": "confirm_delete",
+      "value": "确定要删除这篇日记吗？"
+    }
+  ]
+}

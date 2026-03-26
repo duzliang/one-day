@@ -1,0 +1,14 @@
+{
+  "name": "one-day",
+  "version": "1.0.0",
+  "description": "OneDay - HarmonyOS DayOne clone",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hvigor-ohos-plugin": "2.4.2",
+    "@ohos/hvigor": "2.4.2"
+  }
+}

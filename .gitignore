@@ -1,0 +1,68 @@
+# Huawei DevEco / HarmonyOS
+
+# Build outputs
+/build/
+**/build/
+**/*.hap
+**/*.app
+**/*.appex
+**/*.appss
+**/*.cert
+**/*.p7b
+**/*.p12
+**/*.jks
+**/outputs/
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+*.swp
+*.swo
+*~
+
+# DevEco Studio
+.hvigor/
+.hvigor
+local.properties
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+.thumbs/
+
+# Signing configuration (keep these private!)
+**/*.json5.sig
+**/signing-configs/
+openharmony/signature/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Preferences (user-specific)
+*.preferences
+*.preference
+
+# Cache
+.cache/
+**/cache/
+__pycache__/
+
+# Test coverage
+coverage/
+*.lcov
+
+# HDC
+.hdc/
+hdc.log

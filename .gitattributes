@@ -1,0 +1,22 @@
+*.png text=false
+*.jpg text=false
+*.jpeg text=false
+*.gif text=false
+*.webp text=false
+*.svg text=false
+*.ico text=false
+
+*.ttf text=false
+*.otf text=false
+*.woff text=false
+*.woff2 text=false
+
+*.bin text=false
+*.exe text=false
+*.dll text=false
+*.so text=false
+*.dylib text=false
+
+*.hap text=false
+*.app text=false
+*.cert text=false
